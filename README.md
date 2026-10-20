@@ -7,7 +7,7 @@ This repository only hosts signed and notarized builds. The source code is kept 
 
 ## Download
 
-Get the latest DMG from [Releases](https://github.com/dourgulf/MyTypeless-releases/releases/latest).
+Get the latest DMG from [Releases](https://github.com/dourgulf/MyTypeless-releases/releases).
 
 ## Install
 
